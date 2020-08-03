@@ -36,3 +36,9 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+# UiPath Studio local files #
+######################
+.objects/
+.settings/
+.local/
